@@ -1,5 +1,5 @@
 .container {
-    background-color: #f0e9e9;
+    background-color: white;
     margin: 120px auto;
     max-width: 700px;
 border-radius: 4px;
@@ -9,7 +9,7 @@ padding: 20px;
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #F1F3F4;
+    background:  linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);;
     
 }
 
@@ -36,7 +36,7 @@ main{ margin-bottom: 30px;}
     box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
     border-radius: 10px;
  margin: 20px;
-    border: 1px solid #AC7661;}
+    border: 1px solid #918471;}
 form {
     
     display: flex;
@@ -48,23 +48,23 @@ margin-top: 6px;
 margin-bottom: -7px;
 opacity: 0.6;
 font-size: 12px;
-color: #AC7661;
+color: #918471;
 }
 
-a{ color:#AC7661}
+a{ color:#6E7161}
 .instructions {
     padding: 16px;
-    border: 1px solid #AC7661;
+    border: 1px solid #918471;
     width: 80%;
     font-size: 16px;
     border-radius: 50px;
     line-height: 20px;
-    color: #AC7661;
+    color: #6E7161;
 }
 
 .submit-button {
     margin-left: 10px;
-    background: #AC7661;
+    background: #6E7161;
     color: white;
     border: none;
     width: 150px;
